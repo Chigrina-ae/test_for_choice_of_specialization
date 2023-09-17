@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jinny\\Desktop\\Учеба\\test_part_1\\test_for_choice_of_specialization\\test_for_choice_of_specialization.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jinny\\Desktop\\Учеба\\test_part_1\\test_for_choice_of_specialization\\test_for_choice_of_specialization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jinny\\Desktop\\Учеба\\test_part_1\\test_for_choice_of_specialization\\test_for_choice_of_specialization.csproj",
+        "projectName": "test_for_choice_of_specialization",
+        "projectPath": "C:\\Users\\jinny\\Desktop\\Учеба\\test_part_1\\test_for_choice_of_specialization\\test_for_choice_of_specialization.csproj",
+        "packagesPath": "C:\\Users\\jinny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jinny\\Desktop\\Учеба\\test_part_1\\test_for_choice_of_specialization\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jinny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
