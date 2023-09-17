@@ -1,0 +1,15 @@
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\bin\Debug\net7.0\test_for_choice_of_specialization.exe
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\bin\Debug\net7.0\test_for_choice_of_specialization.deps.json
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\bin\Debug\net7.0\test_for_choice_of_specialization.runtimeconfig.json
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\bin\Debug\net7.0\test_for_choice_of_specialization.dll
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\bin\Debug\net7.0\test_for_choice_of_specialization.pdb
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.csproj.AssemblyReference.cache
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.AssemblyInfoInputs.cache
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.AssemblyInfo.cs
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.csproj.CoreCompileInputs.cache
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.dll
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\refint\test_for_choice_of_specialization.dll
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.pdb
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\test_for_choice_of_specialization.genruntimeconfig.cache
+C:\Users\jinny\Desktop\Учеба\test_part_1\test_for_choice_of_specialization\obj\Debug\net7.0\ref\test_for_choice_of_specialization.dll
